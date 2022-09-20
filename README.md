@@ -10,8 +10,8 @@
 
 ## Link to assignment description
 
-Follow along with the tutorial at: https://www.youtube.com/watch?v=hdI2bqOjy3c
-Create the files he demonstrates.
+Follow along with the whole tutorial at: https://www.youtube.com/watch?v=hdI2bqOjy3c
+At time index 1:10:30, the presenter starts with HTML and CSS files so he can focus on the JavaScript. I've included those files in the repository for you. Create the main.js file he demonstrates.
 
 ## Turn on GitHub Pages
 
