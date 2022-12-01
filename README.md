@@ -11,7 +11,7 @@
 ## Link to assignment description
 
 Follow along with the whole tutorial at: https://www.youtube.com/watch?v=hdI2bqOjy3c Be sure to watch the entire video. (It will help you with the quiz.)
-At time index 1:10:30, the presenter starts with HTML and CSS files so he can focus on the JavaScript. I've included those files in the repository for you. Create the main.js file he demonstrates.
+At time index 1:10:30, the presenter starts with HTML and CSS files so he can focus on the JavaScript. I've included those files in the repository for you. Create the main.js file he demonstrates. Create the website he creates and activate GitHub Pages so it works on your GitHub account. Turn in the link to your GitHub account.
 
 ## Turn on GitHub Pages
 
